@@ -12,4 +12,4 @@ tags:
   - Photography
 ---
 
-{% include cs-Sketchpad.md %}
+{% include cs-sketchpad.md %}
