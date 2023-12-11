@@ -10,4 +10,4 @@ tags:
   - animation
 ---
 
-{% include cs-sketchpad.md.md %}
+{% include cs-sketchpad.md %}
